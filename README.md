@@ -1,3 +1,7 @@
-#Numero Secreo Jogo
 
-[Jogo_Adivinha_Numero_)Secreto] (https://vinnixz.github.io/logica-js-projeto_inicial/)
+
+
+## Numero Secreto Jogo
+
+[Jogo](https://vinnixz.github.io/logica-js-projeto_inicial/)
+
